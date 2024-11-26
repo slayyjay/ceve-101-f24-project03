@@ -23,7 +23,7 @@ using RainwaterHarvesting         # <2>
 
 ### Setting the file path
 
-Next, we specify the path to the rainfall data file and read it in.
+Next, we specify \the path to the rainfall data file and read it in.
 
 ```{julia}
 filepath = "data/1.txt" # <1>   
